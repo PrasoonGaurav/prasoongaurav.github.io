@@ -14,6 +14,27 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 
 ---
 
+## Experience
+
+### **Software Engineer iOS**
+### LBB (Little Black Book)         
+<i>(Aug 21 - Present) </i>
+
+• Working on the iOS app of LBB to help millions of users performing E-Commerce things. <br> 
+• Implemented the LBBTV & Redeveloped the different Screen UIs to engage the users on app. <br> 
+• Proficiency with RESTful API’s to connect to backend services following MVVM architecture. <br> 
+• Experience working with agile team environments for product development.
+
+### **Software Engineer iOS (Intern)**
+### TPM World Services             
+<i> (Nov 20 - Feb 21) </i>
+
+• Worked on an iOS app to solve the problems of thousands of patients consulting the doctor. <br>
+• Integrated Firebase, Payment Gateways, A/V calls, Cocoapods Libraries and REST APIs for Backend. <br>
+• Worked on UIKit StoryBoard Framework with MVC architecture pattern.
+
+---
+
 ## Skills
 
 • Languages: Swift, Java <br>
@@ -22,25 +43,6 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 • Augmented Reality <br>
 • DevOps: Git, GitHub <br>
 • Tools: Xcode, Eclipse, Linear, Firebase
-
----
-
-## Experience
-
-### **Software Engineer iOS**
-### LBB (Little Black Book)         <i> (Aug 21 - Present) </i>
-
-• Working on the iOS app of LBB to help millions of users performing E-Commerce things. <br> 
-• Implemented the LBBTV & Redeveloped the different Screen UIs to engage the users on app. <br> 
-• Proficiency with RESTful API’s to connect to backend services following MVVM architecture. <br> 
-• Experience working with agile team environments for product development.
-
-### **Software Engineer iOS (Intern)**
-### TPM World Services             <i> (Nov 20 - Feb 21) </i>
-
-• Worked on an iOS app to solve the problems of thousands of patients consulting the doctor. <br>
-• Integrated Firebase, Payment Gateways, A/V calls, Cocoapods Libraries and REST APIs for Backend. <br>
-• Worked on UIKit StoryBoard Framework with MVC architecture pattern.
 
 ---
 ## Projects
@@ -64,12 +66,13 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 
 ## Education
 
-### **DIT University**
-### BTech Computer Science (2018- 2022)
+### **DIT University, Dehradun**
+### B.Tech. in Computer Science & Engineering (2018- 2022)
 CGPA 8.21
 
 ---
 
 ### Extras
-Apart from being a Software developer, I don't have any pet but I often feed street dogs 🐾 😁.
+
+Apart from being a Software developer, I don't have any pet but I often feed street dogs 🐾 😁. I'm an Apple Teacher (recognised by Apple). I'm leading an Environmental Society in my college.
 
