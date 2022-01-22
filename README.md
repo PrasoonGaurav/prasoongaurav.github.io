@@ -53,8 +53,8 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 • The app is live on App Store.
 
 ### <a href="https://github.com/PrasoonGaurav/HappyPets"> HappyPets </a>  - Social Media iOS Application for Pets. 
-• Developed Instagram like application for pets.
-• Worked on Image Caching, Image Compression, Multithreading & User Defaults.
+• Developed Instagram like application for pets. <br>
+• Worked on Image Caching, Image Compression, Multithreading & User Defaults. <br>
 • Integrated Firebase for backend services like Authentication, Databases & Analytics.
 
 ### <a href="https://github.com/PrasoonGaurav/iOS_Blockchain_Prototype"> Blockchain Prototype iOS App </a> 
