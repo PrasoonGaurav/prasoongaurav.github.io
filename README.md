@@ -74,5 +74,5 @@ CGPA 8.21
 
 ### Extras
 
-Apart from being a Software developer, I don't have any pet but I often feed street dogs 🐾 😁. I'm an Apple Teacher (recognised by Apple). I'm leading an Environmental Society in my college.
+Apart from sitting in front of my MacBook, I love exploring what's the actual purpose of life! I don't have any pet but I often feed street dogs 🐾 😁. I'm an Apple Teacher (recognised by Apple) so I often teach others how to use Apple's Softwares. I'm leading an Environmental Society (a team of around 100 students)in my college where we keep organising lots of events related to environment like Plantation Drives, Yoga Drives, Village School Drives, Old Age Home Drives etc. 
 
