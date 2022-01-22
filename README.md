@@ -1,37 +1,64 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+"Solving the problems of society with the help of emerging technologies is BigBoys' mission. It's mine too!"
+
+💻 Building the iOS Product of LBB to connect millions of users with the Local/Indians Brands on the country's Largest & Fastest growing Social Discovery Platform "Little Black Book". 
+
+My recent experience as a Software Engineer Intern (iOS) sparked a deep desire to serve society ⚡. I worked there on a Doctor-Patient Consultation app that solved the problems of thousands of patients consulting the doctor.
+
+The tech stacks I am passionate about are iOS Development, Augmented Reality and Blockchain. I have published one full-fledged iOS App on the AppStore. This app is integrated with Augmented Reality and Machine Learning. Its purpose is to ease the kids' education very smooth and entertaining 🌠. 
+
+I've learned & developed some really cool projects on iOS which are uploaded on my GitHub profile. These apps include combined technologies eg. (iOS + Blockchain), (SwiftUI + Firebase), (iOS + AR + ML).
+
+Wait wait wait.. one more thing....I don't have any pet but I often feed street dogs 🐾 😁.
 
 ---
 
 ## Skills
 
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</p>
+• Languages: Swift, Java <br>
+• Mobile Application Development: iOS Dev with MVVM & MVC Architecture Patterns. <br> 
+• Frameworks: UIKit Storyboard, CocoaTouch, ARKit <br>
+• Augmented Reality <br>
+• DevOps: Git, GitHub <br>
+• Tools: Xcode, Eclipse, Linear, Firebase
 
 ---
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **Software Engineer iOS**
+### LBB (Little Black Book)         <i> (Aug 21 - Present) </i>
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+• Working on the iOS app of LBB to help millions of users performing E-Commerce things. <br> 
+• Implemented the LBBTV & Redeveloped the different Screen UIs to engage the users on app. <br> 
+• Proficiency with RESTful API’s to connect to backend services following MVVM architecture. <br> 
+• Experience working with agile team environments for product development.
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Software Engineer iOS (Intern)**
+### TPM World Services             <i> (Nov 20 - Feb 21) </i>
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+• Worked on an iOS app to solve the problems of thousands of patients consulting the doctor. <br>
+• Integrated Firebase, Payment Gateways, A/V calls, Cocoapods Libraries and REST APIs for Backend. <br>
+• Worked on UIKit StoryBoard Framework with MVC architecture pattern.
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+---
+## Projects
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+### <a href="https://apps.apple.com/in/app/champar/id1562585187"> champAR </a> - An iOS App integrated with Augmented Reality & Machine Learning.
+• The app includes Solar System, Dice Game, Object Detector, Measuring Instrument & AR Portal. <br> 
+• Worked on Apple ARKit Framework, SceneKit Engine, CoreML Models. <br>
+• The app is live on App Store.
+
+### <a href="https://github.com/PrasoonGaurav/HappyPets"> HappyPets </a>  - Social Media iOS Application for Pets. 
+• Developed Instagram like application for pets.
+• Worked on Image Caching, Image Compression, Multithreading & User Defaults.
+• Integrated Firebase for backend services like Authentication, Databases & Analytics.
+
+### <a href="https://github.com/PrasoonGaurav/iOS_Blockchain_Prototype"> Blockchain Prototype iOS App </a> 
+• The app describes how blockchain works by mining & sending bitcoins between two wallets. <br>
+• For each transaction, Block’s records (Hash, Data, Previous Block Hash, Transaction Validity) are printed. <br>
+• The prototype has been developed using own custom algorithms.
 
 ---
 
@@ -39,11 +66,10 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ### **DIT University**
 ### BTech Computer Science (2018- 2022)
-GPA 8.21
+CGPA 8.21
 
 ---
 
-### INTERESTS
-Apart from being a Software developer, I do content creation. I make videos related to frontend and general tech.
+### Extras
+Apart from being a Software developer, I don't have any pet but I often feed street dogs 🐾 😁.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
