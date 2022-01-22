@@ -74,5 +74,7 @@ CGPA 8.21
 
 ### Extras
 
-Apart from sitting in front of my MacBook, I love exploring what's the actual purpose of life! I don't have any pet but I often feed street dogs 🐾 😁. I'm an <b>Apple Teacher</b> (recognised by Apple) so I often teach others how to use Apple's Softwares. I'm <b>leading</b> an Environmental Society (a team of around 100 students)in my college where we keep organising lots of events related to environment like Plantation Drives, Yoga Drives, Village School Drives, Old Age Home Drives etc. 
+Apart from sitting in front of my MacBook 👨🏻‍💻, I love exploring what's the actual purpose of life!!<br>
+I don't have any pet but I often feed street dogs 🐾 😁. I've a crave for Chicken Tandoori. I'm an <b>Apple Teacher</b> (recognised by Apple) so I often teach others how to use Apple's Softwares. I'm <b>leading</b> an <b>Environmental Society -> <a href="https://www.linkedin.com/company/prithvi-the-environmental-club-ditu/"> Prithvi Club </a> </b> (a team of around 100 students) in my college where we keep organising lots of events related to environment like Plantation Drives, Yoga Drives, Village School Drives, Old Age Home Drives etc. <br>
 
+Thank you for scrolling till here. See you Again ❤️!!
