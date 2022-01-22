@@ -20,47 +20,47 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 ### LBB (Little Black Book)         
 <i>(Aug 21 - Present) </i>
 
-• Working on the iOS app of LBB to help millions of users performing E-Commerce things. <br> 
-• Implemented the LBBTV & Redeveloped the different Screen UIs to engage the users on app. <br> 
-• Proficiency with RESTful API’s to connect to backend services following MVVM architecture. <br> 
+• Working on the iOS app of LBB to help <b> millions of users performing E-Commerce things.</b> <br> 
+• Implemented the <b> LBBTV & Redeveloped the different Screen UIs to engage the users on app. </b> <br> 
+• Proficiency with <b> RESTful API’s </b> to connect to backend services following <b> MVVM architecture. </b> <br> 
 • Experience working with agile team environments for product development.
 
 ### **Software Engineer iOS (Intern)**
 ### TPM World Services             
 <i> (Nov 20 - Feb 21) </i>
 
-• Worked on an iOS app to solve the problems of thousands of patients consulting the doctor. <br>
-• Integrated Firebase, Payment Gateways, A/V calls, Cocoapods Libraries and REST APIs for Backend. <br>
-• Worked on UIKit StoryBoard Framework with MVC architecture pattern.
+• Worked on an iOS app to solve the problems of <b> thousands of patients consulting the doctor.</b> <br>
+• Integrated <b> Firebase, Payment Gateways, A/V calls, Cocoapods Libraries </b> & <b> REST APIs </b> for Backend. <br>
+• Worked on <b> UIKit StoryBoard </b> Framework with <b> MVC </b> architecture pattern.
 
 ---
 
 ## Skills
 
-• Languages: Swift, Java <br>
-• Mobile Application Development: iOS Dev with MVVM & MVC Architecture Patterns. <br> 
-• Frameworks: UIKit Storyboard, CocoaTouch, ARKit <br>
-• Augmented Reality <br>
-• DevOps: Git, GitHub <br>
-• Tools: Xcode, Eclipse, Linear, Firebase
+• <b> Languages:</b> Swift, Java <br>
+• <b> Mobile Application Development:</b> iOS Dev with MVVM & MVC Architecture Patterns. <br> 
+• <b> Frameworks: </b> UIKit Storyboard, CocoaTouch, ARKit <br>
+• Augmented Reality<br>
+• <b>DevOps:</b> Git, GitHub <br>
+• <b> Tools: </b> Xcode, Eclipse, Linear, Firebase
 
 ---
 ## Projects
 
 ### <a href="https://apps.apple.com/in/app/champar/id1562585187"> champAR </a> - An iOS App integrated with Augmented Reality & Machine Learning.
 • The app includes Solar System, Dice Game, Object Detector, Measuring Instrument & AR Portal. <br> 
-• Worked on Apple ARKit Framework, SceneKit Engine, CoreML Models. <br>
-• The app is live on App Store.
+• Worked on <b> Apple ARKit Framework, SceneKit Engine, CoreML Models. </b> <br>
+• The app is live on <a href="https://apps.apple.com/in/app/champar/id1562585187"> App Store </a>.
 
 ### <a href="https://github.com/PrasoonGaurav/HappyPets"> HappyPets </a>  - Social Media iOS Application for Pets. 
-• Developed Instagram like application for pets. <br>
-• Worked on Image Caching, Image Compression, Multithreading & User Defaults. <br>
+• Developed <b> Instagram like application for pets.</b> <br>
+• Worked on <b>Image Caching, Image Compression, Multithreading </b>& User Defaults. <br>
 • Integrated Firebase for backend services like Authentication, Databases & Analytics.
 
 ### <a href="https://github.com/PrasoonGaurav/iOS_Blockchain_Prototype"> Blockchain Prototype iOS App </a> 
 • The app describes how blockchain works by mining & sending bitcoins between two wallets. <br>
-• For each transaction, Block’s records (Hash, Data, Previous Block Hash, Transaction Validity) are printed. <br>
-• The prototype has been developed using own custom algorithms.
+• For each transaction, Block’s records <b>(Hash, Data, Previous Block Hash, Transaction Validity)</b> are printed. <br>
+• The prototype has been developed using own <b>custom algorithms.</b>
 
 ---
 
@@ -74,5 +74,5 @@ CGPA 8.21
 
 ### Extras
 
-Apart from sitting in front of my MacBook, I love exploring what's the actual purpose of life! I don't have any pet but I often feed street dogs 🐾 😁. I'm an Apple Teacher (recognised by Apple) so I often teach others how to use Apple's Softwares. I'm leading an Environmental Society (a team of around 100 students)in my college where we keep organising lots of events related to environment like Plantation Drives, Yoga Drives, Village School Drives, Old Age Home Drives etc. 
+Apart from sitting in front of my MacBook, I love exploring what's the actual purpose of life! I don't have any pet but I often feed street dogs 🐾 😁. I'm an <b>Apple Teacher</b> (recognised by Apple) so I often teach others how to use Apple's Softwares. I'm <b>leading</b> an Environmental Society (a team of around 100 students)in my college where we keep organising lots of events related to environment like Plantation Drives, Yoga Drives, Village School Drives, Old Age Home Drives etc. 
 
