@@ -19,7 +19,7 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 <i>(Aug' 21 - Present) </i>
 
 • Contributing extensively to the LBB’s iOS Application to let <b> 22 millions </b> users explore their cities & shop the most curated products.<br> 
-• Redeveloped the entire <b> Cart-Checkout-Flow, LBBTV & fixed Hotfix-Bugs </b> to engage the <b> maximum <b> users. <br>
+• Redeveloped the entire <b> Cart-Checkout-Flow, LBBTV & fixed Hotfix-Bugs </b> to engage the <b> maximum </b> users. <br>
 • Optimised the <b> app’s performance </b> through <b> code refactoring, </b> resolving old bugs & fixing production crashes. <br>
 • Proficiency with <b> RESTful API’s </b> to connect to backend services following <b> MVVM architecture. </b> <br> 
 • Experience working with <b> agile team </b> environments for product development.
@@ -75,4 +75,4 @@ CGPA 8.21
 Apart from sitting in front of my MacBook 👨🏻‍💻, I love exploring what's the actual purpose of life!!<br>
 I don't have any pet but I often feed street dogs 🐾 😁. I've a crave for Chicken Tandoori. I'm an <b>Apple Teacher</b> (recognised by Apple) so I often teach others how to efficiently use Apple's Softwares. I'm <b>leading</b> an <b>Environmental Society -> <a href="https://www.linkedin.com/company/prithvi-the-environmental-club-ditu/"> Prithvi Club </a> </b> (a team of around 100 students) in my college where we keep organising lots of events related to environment like Plantation Drives, Yoga Drives, Village School Drives, Old Age Home Drives etc. <br>
 
-That's from my side. Hope you liked my profile. Thank you for scrolling till here. See you Again ❤️!!
+That's all from my side. Hope you liked my profile. Thank you for scrolling till here. See you Again ❤️!!
