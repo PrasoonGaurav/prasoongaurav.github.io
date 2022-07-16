@@ -48,7 +48,7 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 ### <a href="https://apps.apple.com/in/app/champar/id1562585187"> champAR </a> - An iOS App integrated with Augmented Reality & Machine Learning.
 • The app includes Solar System, Dice Game, Object Detector, Measuring Instrument & AR Portal. <br> 
 • Programmed the application on <b> Apple ARKit Framework, SceneKit Engine, CoreML Models.</b> <br>
-• The app is live on <a href="https://apps.apple.com/in/app/champar/id1562585187"> App Store </a>.
+• The app is live on <a href="https://apps.apple.com/in/app/champar/id1562585187"> App Store </a> in order to achieve the goal of edutainment.
 
 ### <a href="https://github.com/PrasoonGaurav/HappyPets"> HappyPets </a>  - Social Media iOS Application for Pets. 
 • Developed an application like <b> Instagram </b> for pets. <br>
