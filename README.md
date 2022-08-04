@@ -55,10 +55,10 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 • Enhanced the performance using <b> Image Caching, Image Compression, Multithreading & User Defaults. </b> <br>
 • Integrated <b> Firebase </b> for backend services like <b> Authentication, Databases & Analytics </b> to track user interests.
 
-### <a href="https://github.com/PrasoonGaurav/iOS_Blockchain_Prototype"> Blockchain Prototype iOS App </a> 
+### <a href="https://github.com/PrasoonGaurav/iOS_Blockchain_Prototype"> Prototype of Blockchain Based iOS App </a> 
 • The app describes how blockchain works by mining & sending bitcoins between two wallets. <br>
 • For each transaction, Block’s records <b>(Hash, Data, Previous Block Hash, Transaction Validity)</b> are printed. <br>
-• The prototype has been developed using self developed <b>custom algorithms.</b>
+• The prototype has been created using self developed <b>custom algorithms.</b>
 
 ---
 
