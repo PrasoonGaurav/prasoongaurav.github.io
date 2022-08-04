@@ -16,21 +16,21 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 
 ### **Software Engineer iOS**
 ### LBB (Little Black Book)         
-<i>(Aug' 21 - Present) </i>
+<i>(Aug' 2021 - Present) </i>
 
-• Contributing extensively to the LBB’s iOS Application to let <b> 22 millions </b> users explore their cities & shop the most curated products.<br> 
-• Redeveloped the entire <b> Cart-Checkout-Flow, LBBTV & fixed Hotfix-Bugs </b> to engage the <b> maximum </b> users. <br>
-• Optimised the <b> app’s performance </b> through <b> code refactoring, </b> resolving old bugs & fixing production crashes. <br>
-• Proficiency with <b> RESTful API’s </b> to connect to backend services following <b> MVVM architecture. </b> <br> 
+• Contributing extensively to the LBB’s iOS Application to let <b> 22 million </b> users explore their cities & shop the most curated products.<br> 
+• Redeveloped the <b> Explore City & Locality, Cart-Checkout-Flow </b> & many other screens from <b> scratch. </b><br>
+• Increased the <b> Crash-Free Users </b> from <b> 97. 78 % to 100% </b> which enhanced <b> user-engagement </b> on app by <b> 15% </b>.
+• Optimised the <b> app’s performance </b> through <b> code refactoring, </b> resolving old bugs & fixing production crashes. <br> 
 • Experience working with <b> agile team </b> environments for product development.
 
 ### **Software Engineer iOS (Intern)**
 ### TPM World Services             
-<i> (Nov' 20 - Feb' 21) </i>
+<i> (Nov' 2020 - Feb' 2021) </i>
 
 • Collaborated on an iOS app to solve the problems of <b> thousands of patients consulting the doctor. </b> <br>
-• Integrated <b> Firebase, Payment Gateways, A/V calls, Cocoapods Libraries </b> & <b> REST APIs </b> for Backend. <br>
-• Designed the application on <b> UIKit StoryBoard </b> Framework with <b> MVC </b> architecture pattern.
+• Programmed the application by integrating <b> Firebase, Payment Gateways, A/V calls, Cocoapods Libraries </b>. <br>
+• Proficiency with <b> RESTful API’s </b> to connect to backend services following <b> MVVM </b> architecture.
 
 ---
 
