@@ -20,7 +20,7 @@ Wait wait wait.. one more thing....I don't have any pet but I often feed street 
 
 • Contributing extensively to the LBB’s iOS Application to let <b> 22 million </b> users explore their cities & shop the most curated products.<br> 
 • Redeveloped the <b> Explore City & Locality, Cart-Checkout-Flow </b> & many other screens from <b> scratch. </b><br>
-• Increased the <b> Crash-Free Users </b> from <b> 97. 78 % to 100% </b> which enhanced <b> user-engagement </b> on app by <b> 15% </b>.
+• Increased the <b> Crash-Free Users </b> from <b> 97. 78% to 100% </b> which enhanced <b> user-engagement </b> on app by <b> 15% </b>.<br>
 • Optimised the <b> app’s performance </b> through <b> code refactoring, </b> resolving old bugs & fixing production crashes. <br> 
 • Experience working with <b> agile team </b> environments for product development.
 
