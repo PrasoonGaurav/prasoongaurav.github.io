@@ -1,6 +1,6 @@
 ## Portfolio
 
-💻 Contributing extensively to the Nykaa's LBB iOS application to let 22 million young millennials explore their cities & shop the most curated products on the country's Largest content - led discovery & e-commerce platform <a href="https://lbb.in"> "Little Black Book" </a> (Acquired by <a href="https://www.nykaa.com"> Nykaa </a>).
+💻 Contributing extensively to the Nykaa's LBB iOS application to let 22 million young millennials explore their cities & shop the most curated products on the country's Largest content - led discovery & e-commerce platform <a href="https://lbb.in"> "Little Black Book" </a> (Acquired by <a href="https://www.nykaa.com"> Nykaa</a>).
 
 My past experience as a Software Engineer Intern (iOS) sparked a deep desire to serve society ⚡. I worked there on a Doctor-Patient Consultation app that solved the problems of thousands of patients consulting the doctor.
 
